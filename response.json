@@ -1,0 +1,23 @@
+[
+	{
+		'update_id': 697640253, 
+		'message': {
+			'message_id': 5, 
+			'from': {
+				'id': 1022888326, 
+				'is_bot': False, 
+				'first_name': 'Dmitry', 
+				'username': 'Sl0niQ', 
+				'language_code': 'ru'
+			}, 
+			'chat': {
+				'id': 1022888326, 
+				'first_name': 'Dmitry', 
+				'username': 'Sl0niQ', 
+				'type': 'private'
+			}, 
+			'date': 1762847862, 
+			'text': 'test'
+		}
+	}
+]
