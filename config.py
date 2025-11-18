@@ -11,3 +11,5 @@ POOL_CONNECTIONS = 1 	# количество хостов в пуле
 POOL_MAXSIZE = 1 		# количество параллельных соединений на хост  
 MAX_RETRIES = 0   		# количество повторных попыток соединения
 POOL_BLOCK = False
+
+FILE_PATH = 'iss_data.csv' # путь к источнику данных
